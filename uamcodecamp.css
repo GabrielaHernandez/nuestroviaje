@@ -66,7 +66,7 @@ th, td
 a:link { color: royalblue; }
 a:visited { color: royalblue; }
 a:focus { color: black; }
-a:hover { color: green; }
+a:hover { color: white; }
 a:active { color: red; }
 
 /* -----------------------
@@ -142,7 +142,7 @@ Nav
 .nav a:hover
 {
 	color: white;
-	background-color: green;
+	background-color: royalblue;
 }
 
 .nav a:active
